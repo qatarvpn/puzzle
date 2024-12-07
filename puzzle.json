@@ -4,7 +4,7 @@
       "id": "landmarks",
       "name": "Famous Landmarks",
       "description": "Explore the world's most iconic landmarks",
-      "category_image": "https://example.com/landmarks_category.jpg",
+      "category_image": "https://raw.githubusercontent.com/qatarvpn/puzzle/refs/heads/main/lukas-parnican-uDO05hIt1Kk-unsplash.jpg",
       "puzzles": [
         {
           "id": "landmarks_1",
