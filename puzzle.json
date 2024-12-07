@@ -1,0 +1,87 @@
+{
+  "categories": [
+    {
+      "id": "landmarks",
+      "name": "Famous Landmarks",
+      "description": "Explore the world's most iconic landmarks",
+      "category_image": "https://example.com/landmarks_category.jpg",
+      "puzzles": [
+        {
+          "id": "landmarks_1",
+          "name": "Eiffel Tower",
+          "description": "The iconic symbol of Paris",
+          "difficulty_level": 1,
+          "image_url": "https://example.com/eiffel_puzzle.jpg",
+          "points": 100,
+          "time_allowed": 300
+        },
+        {
+          "id": "landmarks_2",
+          "name": "Great Wall",
+          "description": "The magnificent Great Wall of China",
+          "difficulty_level": 2,
+          "image_url": "https://example.com/greatwall_puzzle.jpg",
+          "points": 150,
+          "time_allowed": 400
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "Space Wonders",
+      "description": "Discover the mysteries of space",
+      "category_image": "https://example.com/space_category.jpg",
+      "puzzles": [
+        {
+          "id": "space_1",
+          "name": "Milky Way",
+          "description": "Our beautiful galaxy in the night sky",
+          "difficulty_level": 2,
+          "image_url": "https://example.com/milkyway_puzzle.jpg",
+          "points": 200,
+          "time_allowed": 450
+        },
+        {
+          "id": "space_2",
+          "name": "Northern Lights",
+          "description": "Amazing aurora borealis display",
+          "difficulty_level": 3,
+          "image_url": "https://example.com/aurora_puzzle.jpg",
+          "points": 250,
+          "time_allowed": 500
+        }
+      ]
+    },
+    {
+      "id": "underwater",
+      "name": "Ocean Life",
+      "description": "Explore the amazing underwater world",
+      "category_image": "https://example.com/ocean_category.jpg",
+      "puzzles": [
+        {
+          "id": "underwater_1",
+          "name": "Coral Reef",
+          "description": "Vibrant coral reef ecosystem",
+          "difficulty_level": 2,
+          "image_url": "https://example.com/coral_puzzle.jpg",
+          "points": 175,
+          "time_allowed": 400
+        },
+        {
+          "id": "underwater_2",
+          "name": "Deep Sea Life",
+          "description": "Mysterious creatures of the deep ocean",
+          "difficulty_level": 3,
+          "image_url": "https://example.com/deepsea_puzzle.jpg",
+          "points": 225,
+          "time_allowed": 475
+        }
+      ]
+    }
+  ],
+  "game_settings": {
+    "minimum_points": 50,
+    "extra_time_per_level": 60,
+    "category_completion_bonus": 500
+  }
+}
