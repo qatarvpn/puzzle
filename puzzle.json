@@ -1,87 +1,72 @@
 {
-  "categories": [
+  "puzzles": [
     {
-      "id": "animals",
-      "name": "Animal World",
-      "description": "Beautiful animals from around the world",
-      "category_image": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/1.jpeg",
-      "puzzles": [
-        {
-          "id": "animals_1",
-          "name": "Lion",
-          "description": "King of the jungle",
-          "difficulty_level": 1,
-          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/2.jpeg",
-          "points": 100,
-          "time_allowed": 300
-        },
-        {
-          "id": "animals_2",
-          "name": "Tiger",
-          "description": "Majestic tiger in the wild",
-          "difficulty_level": 2,
-          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/3.jpeg",
-          "points": 150,
-          "time_allowed": 400
-        }
-      ]
+      "id": "1",
+      "name": "Puzzle 1",
+      "description": "First puzzle",
+      "difficultyLevel": 1,
+      "imageUrl": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/1.jpeg",
+      "points": 100,
+      "timeAllowed": 300
     },
     {
-      "id": "nature",
-      "name": "Nature",
-      "description": "Beautiful landscapes and scenery",
-      "category_image": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/4.jpeg",
-      "puzzles": [
-        {
-          "id": "nature_1",
-          "name": "Mountain Lake",
-          "description": "Serene mountain lake view",
-          "difficulty_level": 2,
-          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/5.jpeg",
-          "points": 200,
-          "time_allowed": 450
-        },
-        {
-          "id": "nature_2",
-          "name": "Forest",
-          "description": "Dense green forest",
-          "difficulty_level": 3,
-          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/6.jpeg",
-          "points": 250,
-          "time_allowed": 500
-        }
-      ]
+      "id": "2",
+      "name": "Puzzle 2",
+      "description": "Second puzzle",
+      "difficultyLevel": 1,
+      "imageUrl": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/2.jpeg",
+      "points": 100,
+      "timeAllowed": 300
     },
     {
-      "id": "cities",
-      "name": "Cities",
-      "description": "Famous cities around the world",
-      "category_image": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/7.jpeg",
-      "puzzles": [
-        {
-          "id": "cities_1",
-          "name": "New York",
-          "description": "The Big Apple skyline",
-          "difficulty_level": 2,
-          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/lukas-parnican-uDO05hIt1Kk-unsplash.jpg",
-          "points": 175,
-          "time_allowed": 400
-        },
-        {
-          "id": "cities_2",
-          "name": "Paris",
-          "description": "City of Lights",
-          "difficulty_level": 3,
-          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/lukas-parnican-uDO05hIt1Kk-unsplash.jpg",
-          "points": 225,
-          "time_allowed": 475
-        }
-      ]
+      "id": "3",
+      "name": "Puzzle 3",
+      "description": "Third puzzle",
+      "difficultyLevel": 2,
+      "imageUrl": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/3.jpeg",
+      "points": 150,
+      "timeAllowed": 400
+    },
+    {
+      "id": "4",
+      "name": "Puzzle 4",
+      "description": "Fourth puzzle",
+      "difficultyLevel": 2,
+      "imageUrl": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/4.jpeg",
+      "points": 150,
+      "timeAllowed": 400
+    },
+    {
+      "id": "5",
+      "name": "Puzzle 5",
+      "description": "Fifth puzzle",
+      "difficultyLevel": 2,
+      "imageUrl": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/5.jpeg",
+      "points": 150,
+      "timeAllowed": 400
+    },
+    {
+      "id": "6",
+      "name": "Puzzle 6",
+      "description": "Sixth puzzle",
+      "difficultyLevel": 3,
+      "imageUrl": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/6.jpeg",
+      "points": 200,
+      "timeAllowed": 500
+    },
+    {
+      "id": "7",
+      "name": "Puzzle 7",
+      "description": "Seventh puzzle",
+      "difficultyLevel": 3,
+      "imageUrl": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/7.jpeg",
+      "points": 200,
+      "timeAllowed": 500
     }
   ],
-  "game_settings": {
-    "minimum_points": 50,
-    "extra_time_per_level": 60,
-    "category_completion_bonus": 500
+  "gameSettings": {
+    "minimumPoints": 50,
+    "extraTimePerLevel": 60,
+    "categoryCompletionBonus": 500
   }
 }
