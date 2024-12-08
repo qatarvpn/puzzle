@@ -30,14 +30,14 @@
       "id": "nature",
       "name": "Nature",
       "description": "Beautiful landscapes and scenery",
-      "category_image": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/nature/category.jpg",
+      "category_image": "https://raw.githubusercontent.com/qatarvpn/puzzle/refs/heads/main/lukas-parnican-uDO05hIt1Kk-unsplash.jpg",
       "puzzles": [
         {
           "id": "nature_1",
           "name": "Mountain Lake",
           "description": "Serene mountain lake view",
           "difficulty_level": 2,
-          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/nature/lake.jpg",
+          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/refs/heads/main/lukas-parnican-uDO05hIt1Kk-unsplash.jpg",
           "points": 200,
           "time_allowed": 450
         },
@@ -46,7 +46,7 @@
           "name": "Forest",
           "description": "Dense green forest",
           "difficulty_level": 3,
-          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/nature/forest.jpg",
+          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/refs/heads/main/lukas-parnican-uDO05hIt1Kk-unsplash.jpg",
           "points": 250,
           "time_allowed": 500
         }
@@ -63,7 +63,7 @@
           "name": "New York",
           "description": "The Big Apple skyline",
           "difficulty_level": 2,
-          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/cities/newyork.jpg",
+          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/refs/heads/main/lukas-parnican-uDO05hIt1Kk-unsplash.jpg",
           "points": 175,
           "time_allowed": 400
         },
@@ -72,7 +72,7 @@
           "name": "Paris",
           "description": "City of Lights",
           "difficulty_level": 3,
-          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/cities/paris.jpg",
+          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/refs/heads/main/lukas-parnican-uDO05hIt1Kk-unsplash.jpg",
           "points": 225,
           "time_allowed": 475
         }
