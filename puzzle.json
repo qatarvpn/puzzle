@@ -4,14 +4,14 @@
       "id": "animals",
       "name": "Animal World",
       "description": "Beautiful animals from around the world",
-      "category_image": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/lukas-parnican-uDO05hIt1Kk-unsplash.jpg",
+      "category_image": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/1.jpeg",
       "puzzles": [
         {
           "id": "animals_1",
           "name": "Lion",
           "description": "King of the jungle",
           "difficulty_level": 1,
-          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/lukas-parnican-uDO05hIt1Kk-unsplash.jpg",
+          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/2.jpeg",
           "points": 100,
           "time_allowed": 300
         },
@@ -20,7 +20,7 @@
           "name": "Tiger",
           "description": "Majestic tiger in the wild",
           "difficulty_level": 2,
-          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/lukas-parnican-uDO05hIt1Kk-unsplash.jpg",
+          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/3.jpeg",
           "points": 150,
           "time_allowed": 400
         }
@@ -30,14 +30,14 @@
       "id": "nature",
       "name": "Nature",
       "description": "Beautiful landscapes and scenery",
-      "category_image": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/lukas-parnican-uDO05hIt1Kk-unsplash.jpg",
+      "category_image": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/4.jpeg",
       "puzzles": [
         {
           "id": "nature_1",
           "name": "Mountain Lake",
           "description": "Serene mountain lake view",
           "difficulty_level": 2,
-          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/lukas-parnican-uDO05hIt1Kk-unsplash.jpg",
+          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/5.jpeg",
           "points": 200,
           "time_allowed": 450
         },
@@ -46,7 +46,7 @@
           "name": "Forest",
           "description": "Dense green forest",
           "difficulty_level": 3,
-          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/lukas-parnican-uDO05hIt1Kk-unsplash.jpg",
+          "image_url": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/6.jpeg",
           "points": 250,
           "time_allowed": 500
         }
@@ -56,7 +56,7 @@
       "id": "cities",
       "name": "Cities",
       "description": "Famous cities around the world",
-      "category_image": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/cities/category.jpg",
+      "category_image": "https://raw.githubusercontent.com/qatarvpn/puzzle/main/7.jpeg",
       "puzzles": [
         {
           "id": "cities_1",
